@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TPAndroid1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">entrez un message stp</string>
+    <string name="button_send">GO!</string>
+    <string name="title_activity_display_message">DisplayMessageActivity</string>
+</resources>
